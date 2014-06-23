@@ -1,0 +1,3 @@
+[submodule "PopbillFax"]
+	path = PopbillFax
+	url = https://github.com/linkhub-sdk/popbill.fax.php4.git
